@@ -8,7 +8,9 @@
 
 **A beautiful snowfall overlay for Windows with realistic physics and 7 different snowflake patterns!**
 
-[📥 Download Latest Release](../../releases/latest) • [🐛 Report Bug](../../issues) • [⭐ Star this repo](../../stargazers)
+## 📸 Preview
+
+![Snowfall App Preview](preview.png)
 
 </div>
 
@@ -44,6 +46,3 @@
 - Multi-monitor support
 - Minimal CPU usage (<5%)
 
-## 📸 Preview
-
-![Snowfall App Preview](preview.png)
